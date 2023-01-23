@@ -1,6 +1,6 @@
 print("Welcome to MadLibs")
 print('''Here you have to enter a bunch of adjectives, nouns, verbs, etc. without any context 
-and they will be put into a paragraph with blanks in which they may or maynot make sense. 
+and they will be put into a paragraph with blanks in which they may or may not make sense. 
 This will lead to the paragraph being funny and hopefully you will enjoy it''')
 print("Let's begin!!")
 adj1=input("Enter an adjective: ")
