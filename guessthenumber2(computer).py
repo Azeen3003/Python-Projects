@@ -16,5 +16,5 @@ def computer_guess(x):
             low=guess+1
     print(f"Yay! Computer guessed your number, {guess}, correctly.")
 
-x=int(input("From how many numbers would you like to guess? "))
+x=int(input("From how many numbers would you like the computer to guess? "))
 computer_guess(x)
