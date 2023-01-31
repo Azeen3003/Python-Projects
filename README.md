@@ -6,3 +6,4 @@
 - Project 4 : Guess the number (computer) - The computer will guess your chosen number.
 - Project 5: Number guessing game - This program generates a random number and tracks how many guesses it takes you to correctly guess the number.
 - Project 6 : Email slicer - This program takes a particular email and slices it into the username, domain and extension.
+- Project 7 : Rock Paper Scissor - This program contains a simple rock paper scissor game.
