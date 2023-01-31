@@ -1,22 +1,18 @@
 #This function adds two numbers
 def add(x,y):
-    ans=x+y
-    return ans
+    return x+y
 
 #This function subtracts two numbers
 def sub(x,y):
-    ans=x-y
-    return ans
+    return x-y
 
 #This function multiplies two numbers
 def mul(x,y):
-    ans=x*y
-    return ans
+    return x*y
 
 #This function divides two numbers
 def div(x,y):
-    ans=x/y
-    return ans
+    return x/y
 
 
 print("The Calculator")
