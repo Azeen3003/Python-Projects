@@ -8,3 +8,4 @@
 - Project 6 : Email slicer - This program takes a particular email and slices it into the username, domain and extension.
 - Project 7 : Rock Paper Scissor - This program contains a simple rock paper scissor game.
 - Project 8 : Leap year checker - This program checks whether the entered year is a leap year or not.
+- Project 9 : Marvel DC Quiz - This is a simple quiz game that tests your Marvel and DC knowledge and gives you a percentage score based on how well you do in the quiz.
