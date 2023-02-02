@@ -7,3 +7,4 @@
 - Project 5: Number guessing game - This program generates a random number and tracks how many guesses it takes you to correctly guess the number.
 - Project 6 : Email slicer - This program takes a particular email and slices it into the username, domain and extension.
 - Project 7 : Rock Paper Scissor - This program contains a simple rock paper scissor game.
+- Project 8 : Leap year checker - This program checks whether the entered year is a leap year or not.
